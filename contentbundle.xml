@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentBundle>
+  <Version>2</Version>
+  <Date>2017-06-03</Date>
+  <Referral>https://applicatorguide.5zm390-user.freehosting.host/latest/contentbundle.xml</Referral>
+  <Pdf>https://applicatorguide.5zm390-user.freehosting.host/2/appguide.pdf</Pdf>
+  <MetaData>https://applicatorguide.5zm390-user.freehosting.host/2/metadata.xml</MetaData>
+  <ThreeD>https://applicatorguide.5zm390-user.freehosting.host/2/Data.pak</ThreeD>
+  <Search>https://applicatorguide.5zm390-user.freehosting.host/2/search.zip</Search>
+</ContentBundle>

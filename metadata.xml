@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<PageMeta>
+
+	<Toc>
+		<Category Name="Gynecology" Page="6">
+			<Product Name="Venezia" Image="venezia_toc.png" Page="8"/>
+			<Product Name="Utrecht" Image="utrecht_toc.png" Page="10"/>
+			<Product Name="Fletcher Shielded" Image="fletcher_shielded_toc.png" Page="12"/>
+			<Product Name="Fletcher CT/MR" Image="fletcherctmr_toc.png" Page="14"/>
+			<Product Name="Standard CT/MR" Image="standard_toc.png" Page="16"/>
+			<Product Name="Fletcher Williamson" Image="fletcherw_toc.png" Page="18"/>
+			<Product Name="Rotterdam" Image="rotterdam_toc.png" Page="20"/>
+			<Product Name="Henschke" Image="henschke_toc.png" Page="22"/>
+			<Product Name="Interstitial Ring" Image="interst_ring_toc.png" Page="24"/>
+			<Product Name="Vienna" Image="vienna_toc.png" Page="26"/>
+			<Product Name="Ring CT/MR" Image="ringctmr_toc.png" Page="28"/>
+			<Product Name="Ring" Image="ring_toc.png" Page="30"/>
+			<Product Name="Adjustable Cervix" Image="adjcervix_toc.png" Page="32"/>
+			<Product Name="Vaginal CT/MR Multi Channel" Image="vcmc_toc.png" Page="34"/>
+			<Product Name="Vaginal CT/MR cylinder" Image="cylctmr_toc.png" Page="36"/>
+			<Product Name="Vaginal Ti cylinder" Image="cylti_toc.png" Page="38"/>
+			<Product Name="Shielded cylindrical" Image="cylsh_toc.png" Page="40"/>
+			<Product Name="Miami" Image="miami_toc.png" Page="42"/>
+			<Product Name="Vaginal cylinder" Image="cyl_toc.png" Page="44"/>
+			<Product Name="Vaginal mould" Image="mould_toc.png" Page="46"/>
+			<Product Name="Rotte" Image="rotte_toc.png" Page="48"/>
+		</Category>
+		<Category Name="Prostate, Rectum and Bladder">
+			<Product Name="Luneray" Image="luneray_toc.png" Page="52"/>
+			<Product Name="Martinez template" Image="martinez_toc.png" Page="54"/>
+			<Product Name="Prostate stepper template" Image="steppertpl_toc.png" Page="56"/>
+			<Product Name="MUPIT" Image="mupit_toc.png" Page="58"/>
+			<Product Name="Intracavitary mold" Image="icmold_toc.png" Page="60"/>		
+		</Category>
+		<Category Name="Breast">
+			<Product Name="Breast CT/MR" Image="breastctmr_toc.png" Page="64"/>
+			<Product Name="Kuske" Image="kuske_toc.png" Page="66"/>
+			<Product Name="Rabit" Image="rabit_toc.png" Page="68"/>
+			<Product Name="Oncosmart System" Image="oncosmart_toc.png" Page="70"/>
+		</Category>
+		<Category Name="Bronchus and Esophagus">
+			<Product Name="LumenCare Azure" Image="lumencare_toc.png" Page="74"/>
+			<Product Name="Bonvoisin Gérard" Image="bonvoisin_toc.png" Page="78"/>
+			<Product Name="Esophageal" Image="esophageal_toc.png" Page="80"/>
+		</Category>
+		<Category Name="Head and Neck">
+			<Product Name="Rotterdam Nasopharyngeal" Image="rotterdam_naso_toc.png" Page="84"/>
+			<Product Name="Pipard Tongue" Image="pipard_toc.png" Page="86"/>
+		</Category>
+		<Category Name="Skin and Surface">
+			<Product Name="Valencia" Image="valencia_toc.png" Page="90"/>
+			<Product Name="Leipzig" Image="leipzig_toc.png" Page="92"/>
+			<Product Name="Freiburg Flap" Image="freiburg_toc.png" Page="94"/>
+		</Category>
+		<Category Name="Needles and Flexible Implant Tubes">
+			<Product Name="ProGuide needle" Image="proguide_toc.png" Page="98"/>
+			<Product Name="Titanium needles" Image="ti_needles_toc.png" Page="100"/>
+			<Product Name="Steel needles" Image="ss_needles_toc.png" Page="102"/>
+			<Product Name="Flexible Implant Tubes" Image="flex_tubes_toc.png" Page="104"/>
+		</Category>
+		<Category Name="Quality Assurance Tools" Page="106"/>
+		<Category Name="Accessories" Page="112"/>
+	</Toc>
+	
+	<Pages>
+		
+		<!-- Skip TOC and Index; these are replaced by visual index page -->
+		<Page Number="1" Skip="true"/>
+		<Page Number="2" Skip="true"/>
+		<Page Number="3" Skip="true"/>
+		<Page Number="4" Skip="true"/>
+		<Page Number="5" Skip="true"/>
+		<Page Number="7" Skip="true"/>
+		<Page Number="50" Skip="true"/>
+		<Page Number="51" Skip="true"/>
+		<Page Number="62" Skip="true"/>
+		<Page Number="63" Skip="true"/>
+		<Page Number="72" Skip="true"/>
+		<Page Number="73" Skip="true"/>
+
+		<!-- Fritz has been phased out -->
+		<Page Number="76" Skip="true"/>
+		<Page Number="77" Skip="true"/>
+
+		<Page Number="82" Skip="true"/>
+		<Page Number="83" Skip="true"/>
+		<Page Number="88" Skip="true"/>
+		<Page Number="89" Skip="true"/>
+		<Page Number="96" Skip="true"/>
+		<Page Number="97" Skip="true"/>
+		<Page Number="118" Skip="true"/>
+		<Page Number="119" Skip="true"/>
+		<Page Number="128" Skip="true"/>
+		<Page Number="129" Skip="true"/>
+		
+
+		<!-- Venezia -->
+		<Page Number="8">
+			<Model ID="new_venezia"/>
+			<Movie Url="https://dl.dropboxusercontent.com/s/w3hb1fr4hn3in7q/888.00773venezia.mp4"/>
+		</Page>
+		<Page Number="9">
+			<Model ID="new_venezia"/>
+			<Movie Url="https://dl.dropboxusercontent.com/s/w3hb1fr4hn3in7q/888.00773venezia.mp4"/>
+		</Page>
+
+		<!-- Utrecht -->
+		<Page Number="10">
+			<Movie Url="https://dl.dropboxusercontent.com/s/sv68d3yvcrrii6o/888.00277utrecht.mp4"/>
+		</Page>
+		<Page Number="11">
+			<Movie Url="https://dl.dropboxusercontent.com/s/sv68d3yvcrrii6o/888.00277utrecht.mp4"/>
+		</Page>
+
+		<!-- Multichannel -->
+		<Page Number="34">
+			<Movie Url="https://dl.dropboxusercontent.com/s/j1z626jnhptyl66/888.00265vcmc.mp4"/>
+		</Page>
+		<Page Number="35">
+			<Movie Url="https://dl.dropboxusercontent.com/s/j1z626jnhptyl66/888.00265vcmc.mp4"/>
+		</Page>
+
+	</Pages>
+	
+</PageMeta>
