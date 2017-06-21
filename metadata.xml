@@ -40,26 +40,26 @@
 		</Category>
 		<Category Name="Bronchus and Esophagus">
 			<Product Name="LumenCare Azure" Image="lumencare_toc.png" Page="74"/>
-			<Product Name="Bonvoisin Gérard" Image="bonvoisin_toc.png" Page="78"/>
-			<Product Name="Esophageal" Image="esophageal_toc.png" Page="80"/>
+			<Product Name="Bonvoisin Gérard" Image="bonvoisin_toc.png" Page="76"/>
+			<Product Name="Esophageal" Image="esophageal_toc.png" Page="78"/>
 		</Category>
 		<Category Name="Head and Neck">
-			<Product Name="Rotterdam Nasopharyngeal" Image="rotterdam_naso_toc.png" Page="84"/>
-			<Product Name="Pipard Tongue" Image="pipard_toc.png" Page="86"/>
+			<Product Name="Rotterdam Nasopharyngeal" Image="rotterdam_naso_toc.png" Page="82"/>
+			<Product Name="Pipard Tongue" Image="pipard_toc.png" Page="84"/>
 		</Category>
 		<Category Name="Skin and Surface">
-			<Product Name="Valencia" Image="valencia_toc.png" Page="90"/>
-			<Product Name="Leipzig" Image="leipzig_toc.png" Page="92"/>
-			<Product Name="Freiburg Flap" Image="freiburg_toc.png" Page="94"/>
+			<Product Name="Valencia" Image="valencia_toc.png" Page="88"/>
+			<Product Name="Leipzig" Image="leipzig_toc.png" Page="90"/>
+			<Product Name="Freiburg Flap" Image="freiburg_toc.png" Page="92"/>
 		</Category>
 		<Category Name="Needles and Flexible Implant Tubes">
-			<Product Name="ProGuide needle" Image="proguide_toc.png" Page="98"/>
-			<Product Name="Titanium needles" Image="ti_needles_toc.png" Page="100"/>
-			<Product Name="Steel needles" Image="ss_needles_toc.png" Page="102"/>
-			<Product Name="Flexible Implant Tubes" Image="flex_tubes_toc.png" Page="104"/>
+			<Product Name="ProGuide needle" Image="proguide_toc.png" Page="96"/>
+			<Product Name="Titanium needles" Image="ti_needles_toc.png" Page="98"/>
+			<Product Name="Steel needles" Image="ss_needles_toc.png" Page="100"/>
+			<Product Name="Flexible Implant Tubes" Image="flex_tubes_toc.png" Page="102"/>
 		</Category>
-		<Category Name="Quality Assurance Tools" Page="106"/>
-		<Category Name="Accessories" Page="112"/>
+		<Category Name="Quality Assurance Tools" Page="104"/>
+		<Category Name="Accessories" Page="110"/>
 	</Toc>
 	
 	<Pages>
@@ -78,20 +78,16 @@
 		<Page Number="72" Skip="true"/>
 		<Page Number="73" Skip="true"/>
 
-		<!-- Fritz has been phased out -->
-		<Page Number="76" Skip="true"/>
-		<Page Number="77" Skip="true"/>
-
-		<Page Number="82" Skip="true"/>
-		<Page Number="83" Skip="true"/>
-		<Page Number="88" Skip="true"/>
-		<Page Number="89" Skip="true"/>
-		<Page Number="96" Skip="true"/>
-		<Page Number="97" Skip="true"/>
-		<Page Number="118" Skip="true"/>
-		<Page Number="119" Skip="true"/>
-		<Page Number="128" Skip="true"/>
-		<Page Number="129" Skip="true"/>
+		<Page Number="80" Skip="true"/>
+		<Page Number="81" Skip="true"/>
+		<Page Number="86" Skip="true"/>
+		<Page Number="87" Skip="true"/>
+		<Page Number="94" Skip="true"/>
+		<Page Number="95" Skip="true"/>
+		<Page Number="116" Skip="true"/>
+		<Page Number="117" Skip="true"/>
+		<Page Number="126" Skip="true"/>
+		<Page Number="127" Skip="true"/>
 		
 
 		<!-- Venezia -->
