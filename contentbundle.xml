@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ContentBundle>
-  <Version>5</Version>
-  <Date>2017-06-21</Date>
+  <Version>6</Version>
+  <Date>2017-07-11</Date>
   <Referral>https://5zm390-user.freehosting.host/latest/contentbundle.xml</Referral>
-  <Pdf>https://5zm390-user.freehosting.host/5/appguide.pdf</Pdf>
-  <MetaData>https://5zm390-user.freehosting.host/5/metadata.xml</MetaData>
-  <ThreeD>https://5zm390-user.freehosting.host/5/Data.pak</ThreeD>
-  <Search>https://5zm390-user.freehosting.host/5/search.zip</Search>
+  <Pdf>https://5zm390-user.freehosting.host/6/appguide.pdf</Pdf>
+  <MetaData>https://5zm390-user.freehosting.host/6/metadata.xml</MetaData>
+  <ThreeD>https://5zm390-user.freehosting.host/6/Data.pak</ThreeD>
+  <Search>https://5zm390-user.freehosting.host/6/search.zip</Search>
 </ContentBundle>

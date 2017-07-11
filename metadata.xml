@@ -102,19 +102,48 @@
 
 		<!-- Utrecht -->
 		<Page Number="10">
+			<Model ID="utrecht"/>
 			<Movie Url="https://5zm390-user.freehosting.host/media/888.00277utrecht.mp4"/>
 		</Page>
 		<Page Number="11">
+			<Model ID="utrecht"/>
 			<Movie Url="https://5zm390-user.freehosting.host/media/888.00277utrecht.mp4"/>
+		</Page>
+
+		<!-- Fletcher CT/MR -->
+		<Page Number="14">
+			<Model ID="fletcherctmr"/>
+		</Page>
+		<Page Number="15">
+			<Model ID="fletcherctmr"/>
+		</Page>
+
+		<!-- Interstitial Ring -->
+		<Page Number="24">
+			<Model ID="interstitialring"/>
+		</Page>
+		<Page Number="25">
+			<Model ID="interstitialring"/>
+		</Page>
+
+		<!-- Ring CT/MR -->
+		<Page Number="28">
+			<Model ID="ringctmr"/>
+		</Page>
+		<Page Number="29">
+			<Model ID="ringctmr"/>
 		</Page>
 
 		<!-- Multichannel -->
 		<Page Number="34">
+			<Model ID="multichannel"/>
 			<Movie Url="https://5zm390-user.freehosting.host/media/888.00265vcmc.mp4"/>
 		</Page>
 		<Page Number="35">
+			<Model ID="multichannel"/>
 			<Movie Url="https://5zm390-user.freehosting.host/media/888.00265vcmc.mp4"/>
 		</Page>
+		
 
 	</Pages>
 	
