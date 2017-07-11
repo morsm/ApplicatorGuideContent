@@ -1,0 +1,5 @@
+Materials/JoinedMaterial_#5.xml
+Materials/Shape.005.xml
+Materials/JoinedMaterial_#5.xml
+Materials/JoinedMaterial_#5.xml
+Materials/JoinedMaterial_#5.xml
